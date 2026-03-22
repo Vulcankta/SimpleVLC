@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleVLC</string>
+    <string name="no_videos">No videos found</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="video_list">Video List</string>
+</resources>
